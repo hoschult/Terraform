@@ -9,6 +9,9 @@ build
 .kube/qa
 .kube/prod
 
+# skip set-env.sh
+set-env.sh
+
 ### STS ###
 .apt_generated
 .classpath
